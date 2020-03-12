@@ -1,3 +1,5 @@
+# 现在，已经有了更好的选择https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack
+
 # intellij-idea-chinese-resources
 Intellij idea 2018.1.2的中文汉化包
 
